@@ -30,6 +30,7 @@
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:id="@+id/button1"
-        android:text="Send me to Second!" />
+        android:text="Send me to Second!"
+        android:textSize="60dp" />
 
 </LinearLayout>
